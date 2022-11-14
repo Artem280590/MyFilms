@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038333346776",
+    "project_id": "myfilms-ccd85",
+    "storage_bucket": "myfilms-ccd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038333346776:android:7aa845d470cdc68e8228ad",
+        "android_client_info": {
+          "package_name": "com.example.myfilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038333346776-6nt7ns9mrblausuvju0l7oqgqqfma2ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMzAG-tGMO1R40eyI_u_1LzLsT7I9XYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038333346776-6nt7ns9mrblausuvju0l7oqgqqfma2ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
